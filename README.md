@@ -5,6 +5,6 @@ Clique em qualquer comuna para ver bandeira, população, área, deputados, asse
 
 **Abrir o atlas:** https://ruger-sum-ita.github.io/rsfb-atlas/
 
-Site do projeto: https://rsfb2027.wordpress.com
+Site do projeto: https://umbrasilsocialista.wordpress.com
 
 Obra de ficção. O mundo descrito diverge do real em 29 de março de 1967; tudo o que se segue é invenção do autor.
